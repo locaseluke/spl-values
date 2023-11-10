@@ -3,7 +3,7 @@ var swiperNodes = "";
   var next_prev_buttons = '<div class="swiper-button-prev"></div><div class="swiper-button-next"></div>'; 
   var scrollbar = '<div class="swiper-scrollbar"></div>';
   var swiperNodes = swiperNodes.concat(pagination, next_prev_buttons);
-  /* loop throw all swipers on the page */
+  /* loop throw all swiperz on the page */
   $('.swiper').each(function( index ) {
     $( this ).append(swiperNodes);
   });

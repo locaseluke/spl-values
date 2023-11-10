@@ -2,7 +2,6 @@
     --swiper-pagination-color: red;
   }
   
-  
 .swiper-pagination {
     position: relative;
     transition: .3s;
@@ -11,7 +10,6 @@
 	  max-width: 25rem;
 	  text-align: left; 
     }
- 
  
   .swiper-pagination-bullet {
     width: 3.375rem;
